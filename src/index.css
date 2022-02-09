@@ -33,7 +33,7 @@ ol, ul {
 }
 
 .square-winner {
-  background: red;
+  background: rgb(161, 161, 161);
 }
 
 .square:focus {
@@ -51,4 +51,8 @@ ol, ul {
 
 .game-info {
   margin-left: 20px;
+}
+
+.button-active {
+  background-color: rgb(161, 161, 161);
 }
